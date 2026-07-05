@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Harsh Limbasiya! 👋
 
-<!--
-**harshlimbasiya228/harshlimbasiya228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Computer Science and Engineering (CSE) student. I am a fast learner, highly passionate about software development, and always excited to explore and learn new technologies.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I’m currently working on a **Movie Explorer (ReactJS Web Application)** and an **Incredible India** Tourist Guide project.
+- 🌱 I’m currently learning **Data Structures, T-SQL, JavaScript, and ReactJS**.
+- 💻 I regularly practice competitive programming on platforms like LeetCode and HackerRank.
+- 🎓 Studying at Darshan University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Java, C, JavaScript, T-SQL
+- **Web Development:** HTML, CSS, Bootstrap, ReactJS
+- **Core Concepts:** Data Structures
+- **Tools:** VS Code, Git
+
+---
+*Always excited to learn new technologies and build cool things!* 💻
